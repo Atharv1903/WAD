@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "a401",
+      "username": "Sanika",
+      "fullName": "Sanika Patil",
+      "email": "nikk@gmail.com",
+      "course": "IT",
+      "password": "nikk@123"
+    }
+  ]
+}
