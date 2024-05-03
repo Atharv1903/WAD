@@ -7,6 +7,14 @@
       "email": "nikk@gmail.com",
       "course": "IT",
       "password": "nikk@123"
+    },
+    {
+      "id": "6237",
+      "username": "Atharv",
+      "fullName": "Atharv Uddhav Kharmate",
+      "email": "awishkar193@gmail.com",
+      "course": "BE",
+      "password": "Awi"
     }
   ]
 }
